@@ -8,8 +8,6 @@
   <br>
 </div>
 
-
-
 > Pronunciation: **Encore** is pronounced like in french - [How to Pronounce encore](https://youtu.be/_TndRxbUXzI?si=IGWAAAUA23HAcXij)
 
 ---
