@@ -1,5 +1,5 @@
 # Encore - Innovation on the Block
-
+  
 **Encore** is a high-performance, lightweight, plugin-capable Minecraft server software written in **C++**.
 <div align="center">
   <a href="https://discord.gg/z3AwTHzxFy">
