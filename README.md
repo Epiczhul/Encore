@@ -42,7 +42,7 @@
 
 ### 🌐 Networking
 - [ ] Compression & encryption (as per protocol)
-- [ ] Login encryption handshake
+- [X] Login encryption handshake
 - [ ] Full protocol version support (1.20+)
 - [ ] Packet handler system with dispatcher
 
