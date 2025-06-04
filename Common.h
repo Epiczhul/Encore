@@ -26,7 +26,7 @@
 #define SOCKET_TYPE int
 #define INVALID_SOCKET_VALUE -1
 #define SOCKET_ERROR_CODE errno
-#endif
+#endif 
 
 
 class SocketStream : public Stream {
