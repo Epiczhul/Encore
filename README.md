@@ -5,7 +5,10 @@
   [![Discord][badge-discord]][social-discord]
   <br>
 </div>
-<br>
+
+[social-discord]: https://discord.gg/z3AwTHzxFy
+[badge-discord]: https://img.shields.io/discord/123456789012345678?label=discord&logo=discord&style=flat-square&color=5865F2
+
 
 > Pronunciation: **Encore** is pronounced like in french - [How to Pronounce encore](https://youtu.be/_TndRxbUXzI?si=IGWAAAUA23HAcXij)
 
@@ -79,6 +82,3 @@ Want to collaborate or follow progress? Open an issue, pull request or join our 
 ---
 
 **Encore** – Innovation on the Block ✨
-
-
-[social-discord]: https://discord.gg/z3AwTHzxFy
