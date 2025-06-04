@@ -82,3 +82,6 @@ Want to collaborate or follow progress? Open an issue, pull request or join our 
 ---
 
 **Encore** – Innovation on the Block ✨
+
+
+© Copyright 2025 - Epiczhul
