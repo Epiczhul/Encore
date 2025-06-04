@@ -1,6 +1,11 @@
 # Encore - Innovation on the Block
 
 **Encore** is a high-performance, lightweight, plugin-capable Minecraft server software written in **C++**.
+<div align="center">
+  [![Discord][badge-discord]][social-discord]
+  <br>
+</div>
+<br>
 
 > Pronunciation: **Encore** is pronounced like in french - [How to Pronounce encore](https://youtu.be/_TndRxbUXzI?si=IGWAAAUA23HAcXij)
 
@@ -74,3 +79,6 @@ Want to collaborate or follow progress? Open an issue, pull request or join our 
 ---
 
 **Encore** – Innovation on the Block ✨
+
+
+[social-discord]: https://discord.gg/z3AwTHzxFy
