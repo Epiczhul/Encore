@@ -2,7 +2,7 @@
 
 **Encore** is a high-performance, lightweight, plugin-capable Minecraft server software written in **C++**.
 <div align="center">
-  <img src="https://discord.com/api/guilds/1379421441522536538/widget.png?style=shield" alt="Discord Shield"/>
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   <br>
 </div>
 
