@@ -2,12 +2,9 @@
 
 **Encore** is a high-performance, lightweight, plugin-capable Minecraft server software written in **C++**.
 <div align="center">
-  [![Discord][badge-discord]][social-discord]
+  ![Discord Shield](https://discord.com/api/guilds/[SERVER ID]/widget.png?style=shield)
   <br>
 </div>
-
-[social-discord]: https://discord.gg/z3AwTHzxFy
-[badge-discord]: https://img.shields.io/discord/123456789012345678?label=discord&logo=discord&style=flat-square&color=5865F2
 
 
 > Pronunciation: **Encore** is pronounced like in french - [How to Pronounce encore](https://youtu.be/_TndRxbUXzI?si=IGWAAAUA23HAcXij)
