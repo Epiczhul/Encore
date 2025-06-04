@@ -2,7 +2,7 @@
 
 **Encore** is a high-performance, lightweight, plugin-capable Minecraft server software written in **C++**.
 
-> Pronunciation: **Encore** is pronounced french - [How to Pronounce encore](https://youtu.be/_TndRxbUXzI?si=IGWAAAUA23HAcXij)
+> Pronunciation: **Encore** is pronounced like in french - [How to Pronounce encore](https://youtu.be/_TndRxbUXzI?si=IGWAAAUA23HAcXij)
 
 ---
 
