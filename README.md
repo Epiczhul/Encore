@@ -20,10 +20,10 @@
 - [x] Basic logging system
 - [x] Server list ping response (MOTD, version, player count)
 - [x] Player joining/login sequence (basic handshake)
-- [ ] Player movement handling
-- [ ] Keep-alive packet support
+- [x] Player movement handling
+- [x] Keep-alive packet support
 - [ ] Mojang authentication (online mode support)
-- [ ] Basic chat message handling
+- [x] Basic chat message handling
 - [ ] Entity metadata sync (for player models, health, etc.)
 
 ### 🌍 World System
@@ -48,7 +48,7 @@
 
 ### 📦 Infrastructure
 - [ ] Config file system (YAML or JSON)
-- [ ] Command system (e.g., `/say`, `/stop`, plugin-extendable)
+- [x] Command system (e.g., `/say`, `/stop`, plugin-extendable)
 - [ ] Permissions system (optional integration)
 - [ ] Metrics/log output (tick time, memory usage)
 
