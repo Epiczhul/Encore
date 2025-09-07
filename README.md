@@ -24,10 +24,10 @@
 - [x] Keep-alive packet support
 - [ ] Mojang authentication (online mode support)
 - [x] Basic chat message handling
-- [ ] Entity metadata sync (for player models, health, etc.)
+- [x] Entity metadata sync (for player models, health, etc.)
 
 ### 🌍 World System
-- [ ] Chunk data serialization/deserialization (Anvil or custom format)
+- [x] Chunk data serialization/deserialization (Anvil or custom format)
 - [ ] Basic world loading (read chunk files)
 - [ ] Basic world generation (flat, void)
 - [ ] Block change packet handling
@@ -47,7 +47,7 @@
 - [ ] Packet handler system with dispatcher
 
 ### 📦 Infrastructure
-- [ ] Config file system (YAML or JSON)
+- [x] Config file system (YAML or JSON)
 - [x] Command system (e.g., `/say`, `/stop`, plugin-extendable)
 - [ ] Permissions system (optional integration)
 - [ ] Metrics/log output (tick time, memory usage)
