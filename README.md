@@ -29,8 +29,8 @@
 ### 🌍 World System
 - [x] Chunk data serialization/deserialization (Anvil or custom format)
 - [ ] Basic world loading (read chunk files)
-- [ ] Basic world generation (flat, void)
-- [ ] Block change packet handling
+- [x] Basic world generation (flat, void)
+- [x] Block change packet handling
 - [ ] Block ticking / scheduled updates
 
 ### 🔄 Performance / Architecture
@@ -48,7 +48,7 @@
 
 ### 📦 Infrastructure
 - [x] Config file system (YAML or JSON)
-- [x] Command system (e.g., `/say`, `/stop`, plugin-extendable)
+- [x] Command system (e.g., `/say`, `/stop`, `/gamemode`, plugin-extendable)
 - [ ] Permissions system (optional integration)
 - [ ] Metrics/log output (tick time, memory usage)
 
@@ -63,8 +63,9 @@
 ---
 
 ## 🛠 Build System
-- Using `CMake`
+- Using `CMake (ninja)`
 - Recommended compiler: `clang++` or `g++`
+- Recommended ide: `CLion`
 
 ## 🔗 License
 This project will be open source under the **[GPLv3 License](https://www.gnu.org/licenses/gpl-3.0.en.html)**.
